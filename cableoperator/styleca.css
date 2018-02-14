@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* CSS Document */
+
+.header{
+	width:100%;
+	background-color:#3A3A3A;
+	height:90px;
+	padding-top:10px;
+	color:#FFFFFF;
+	font-family:Calibri;
+	font-size:36px;
+	text-align:center;
+	border-bottom:5px solid #00ACFF;
+	background-image:url(images_cable_operator/headerbg.jpg);
+	background-repeat:repeat;}
+	
+.middiv{
+	width:600px;
+	height:400px;
+	margin:0 auto;
+	border:1px solid #999999;
+	margin-top:50px;
+	background-image:url(images_cable_operator/loginbg.png);
+	background-repeat:no-repeat;
+	border-radius:8px;
+	-moz-border-radius:8px;
+	-webkit-border-radius:8px;}
+
+.footer{
+	color:#333333;
+	font-family:Calibri;
+	font-size:14px;
+	text-align:center;
+	width:600px;
+	height:40px;
+	margin:0 auto;
+	line-height:40px;}

@@ -1,0 +1,8 @@
+[01-Sep-2014 13:54:05 America/Denver] PHP Fatal error:  Uncaught <span style="color: #AA0000; font-weight: bold;">ERREUR n°6</span><br>Fichier : /home1/projukti/public_html/sms1/student/fpdf/html2pdf.class.php<br>Ligne : 1319<br><br>Impossible de charger l'image <b>../../../configuration/upload_logo/</b>
+  thrown in /home1/projukti/public_html/sms1/student/fpdf/html2pdf.class.php on line 1319
+[11-Sep-2014 01:43:13 America/Denver] PHP Fatal error:  Uncaught <span style="color: #AA0000; font-weight: bold;">ERREUR n°6</span><br>Fichier : /home1/projukti/public_html/sms1/student/fpdf/html2pdf.class.php<br>Ligne : 1319<br><br>Impossible de charger l'image <b>../../../configuration/upload_logo/</b>
+  thrown in /home1/projukti/public_html/sms1/student/fpdf/html2pdf.class.php on line 1319
+[26-Mar-2015 05:57:34] PHP Notice:  Undefined index:  invoice_no in /home1/projukti/public_html/shivamdhaba/cableoperator/admin/pdf/examples/client_bill_report.php on line 216
+[13-Oct-2015 00:12:31] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User shivamdh_usershi already has more than 'max_user_connections' active connections in /home4/shivamdh/public_html/cableoperator/admin/connection.php on line 16
+[24-Oct-2015 09:09:40] PHP Fatal error:  Uncaught <span style="color: #AA0000; font-weight: bold;">ERREUR n°7</span><br>Fichier : /home4/shivamdh/public_html/cableoperator/admin/pdf/html2pdf.class.php<br>Ligne : 5524<br><br>le contenu d'une balise TD ne rentre pas sur une seule page
+  thrown in /home4/shivamdh/public_html/cableoperator/admin/pdf/html2pdf.class.php on line 5524

@@ -1,0 +1,30 @@
+[01-Sep-2014 13:54:05 America/Denver] PHP Fatal error:  Uncaught <span style="color: #AA0000; font-weight: bold;">ERREUR n°6</span><br>Fichier : /home1/projukti/public_html/sms1/student/fpdf/html2pdf.class.php<br>Ligne : 1319<br><br>Impossible de charger l'image <b>../../../configuration/upload_logo/</b>
+  thrown in /home1/projukti/public_html/sms1/student/fpdf/html2pdf.class.php on line 1319
+[11-Sep-2014 01:43:13 America/Denver] PHP Fatal error:  Uncaught <span style="color: #AA0000; font-weight: bold;">ERREUR n°6</span><br>Fichier : /home1/projukti/public_html/sms1/student/fpdf/html2pdf.class.php<br>Ligne : 1319<br><br>Impossible de charger l'image <b>../../../configuration/upload_logo/</b>
+  thrown in /home1/projukti/public_html/sms1/student/fpdf/html2pdf.class.php on line 1319
+[26-Mar-2015 05:57:34] PHP Notice:  Undefined index:  invoice_no in /home1/projukti/public_html/shivamdhaba/cableoperator/admin/pdf/examples/client_bill_report.php on line 216
+[12-Oct-2015 23:24:35] PHP Fatal error:  Class 'HTML2PDF_parsingCss' not found in /home4/shivamdh/public_html/cableoperator/admin/pdf/html2pdf.class.php on line 147
+[12-Oct-2015 23:26:37] PHP Fatal error:  Class 'HTML2PDF_parsingCss' not found in /home4/shivamdh/public_html/cableoperator/admin/pdf/html2pdf.class.php on line 147
+[12-Oct-2015 23:26:43] PHP Fatal error:  Class 'HTML2PDF_parsingCss' not found in /home4/shivamdh/public_html/cableoperator/admin/pdf/html2pdf.class.php on line 147
+[12-Oct-2015 23:26:44] PHP Fatal error:  Class 'HTML2PDF_parsingCss' not found in /home4/shivamdh/public_html/cableoperator/admin/pdf/html2pdf.class.php on line 147
+[12-Oct-2015 23:26:44] PHP Fatal error:  Class 'HTML2PDF_parsingCss' not found in /home4/shivamdh/public_html/cableoperator/admin/pdf/html2pdf.class.php on line 147
+[12-Oct-2015 23:26:44] PHP Fatal error:  Class 'HTML2PDF_parsingCss' not found in /home4/shivamdh/public_html/cableoperator/admin/pdf/html2pdf.class.php on line 147
+[12-Oct-2015 23:26:44] PHP Fatal error:  Class 'HTML2PDF_parsingCss' not found in /home4/shivamdh/public_html/cableoperator/admin/pdf/html2pdf.class.php on line 147
+[12-Oct-2015 23:26:44] PHP Fatal error:  Class 'HTML2PDF_parsingCss' not found in /home4/shivamdh/public_html/cableoperator/admin/pdf/html2pdf.class.php on line 147
+[12-Oct-2015 23:26:44] PHP Fatal error:  Class 'HTML2PDF_parsingCss' not found in /home4/shivamdh/public_html/cableoperator/admin/pdf/html2pdf.class.php on line 147
+[12-Oct-2015 23:26:45] PHP Fatal error:  Class 'HTML2PDF_parsingCss' not found in /home4/shivamdh/public_html/cableoperator/admin/pdf/html2pdf.class.php on line 147
+[12-Oct-2015 23:26:45] PHP Fatal error:  Class 'HTML2PDF_parsingCss' not found in /home4/shivamdh/public_html/cableoperator/admin/pdf/html2pdf.class.php on line 147
+[12-Oct-2015 23:26:45] PHP Fatal error:  Class 'HTML2PDF_parsingCss' not found in /home4/shivamdh/public_html/cableoperator/admin/pdf/html2pdf.class.php on line 147
+[12-Oct-2015 23:26:45] PHP Fatal error:  Class 'HTML2PDF_parsingCss' not found in /home4/shivamdh/public_html/cableoperator/admin/pdf/html2pdf.class.php on line 147
+[12-Oct-2015 23:28:40] PHP Fatal error:  Class 'HTML2PDF_parsingCss' not found in /home4/shivamdh/public_html/cableoperator/admin/pdf/html2pdf.class.php on line 147
+[12-Oct-2015 23:28:40] PHP Fatal error:  Class 'HTML2PDF_parsingCss' not found in /home4/shivamdh/public_html/cableoperator/admin/pdf/html2pdf.class.php on line 147
+[12-Oct-2015 23:28:40] PHP Fatal error:  Class 'HTML2PDF_parsingCss' not found in /home4/shivamdh/public_html/cableoperator/admin/pdf/html2pdf.class.php on line 147
+[12-Oct-2015 23:29:04] PHP Fatal error:  Class 'HTML2PDF_parsingCss' not found in /home4/shivamdh/public_html/cableoperator/admin/pdf/html2pdf.class.php on line 147
+[12-Oct-2015 23:30:30] PHP Fatal error:  Class 'HTML2PDF_parsingCss' not found in /home4/shivamdh/public_html/cableoperator/admin/pdf/html2pdf.class.php on line 147
+[12-Oct-2015 23:30:37] PHP Fatal error:  Class 'HTML2PDF_parsingCss' not found in /home4/shivamdh/public_html/cableoperator/admin/pdf/html2pdf.class.php on line 147
+[12-Oct-2015 23:41:32] PHP Fatal error:  Class 'HTML2PDF_parsingCss' not found in /home4/shivamdh/public_html/cableoperator/admin/pdf/html2pdf.class.php on line 147
+[12-Oct-2015 23:52:57] PHP Fatal error:  Class 'HTML2PDF_parsingCss' not found in /home4/shivamdh/public_html/cableoperator/admin/pdf/html2pdf.class.php on line 147
+[12-Oct-2015 23:52:57] PHP Fatal error:  Class 'HTML2PDF_parsingCss' not found in /home4/shivamdh/public_html/cableoperator/admin/pdf/html2pdf.class.php on line 147
+[12-Oct-2015 23:52:57] PHP Fatal error:  Class 'HTML2PDF_parsingCss' not found in /home4/shivamdh/public_html/cableoperator/admin/pdf/html2pdf.class.php on line 147
+[12-Oct-2015 23:52:58] PHP Fatal error:  Class 'HTML2PDF_parsingCss' not found in /home4/shivamdh/public_html/cableoperator/admin/pdf/html2pdf.class.php on line 147
+[12-Oct-2015 23:53:01] PHP Fatal error:  Class 'HTML2PDF_parsingCss' not found in /home4/shivamdh/public_html/cableoperator/admin/pdf/html2pdf.class.php on line 147

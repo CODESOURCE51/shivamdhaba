@@ -1,0 +1,83 @@
+[22-Jul-2014 07:24:45] PHP Notice:  date_default_timezone_set() [<a href='function.date-default-timezone-set'>function.date-default-timezone-set</a>]: Timezone ID 'ASIA/KOLKATA' is invalid in /home1/projukti/public_html/cable_operator/employee/index.php on line 63
+[22-Jul-2014 07:38:35] PHP Notice:  date_default_timezone_set() [<a href='function.date-default-timezone-set'>function.date-default-timezone-set</a>]: Timezone ID 'ASIA/KOLKATA' is invalid in /home1/projukti/public_html/cable_operator/employee/index.php on line 63
+[22-Jul-2014 07:44:37] PHP Notice:  date_default_timezone_set() [<a href='function.date-default-timezone-set'>function.date-default-timezone-set</a>]: Timezone ID 'ASIA/KOLKATA' is invalid in /home1/projukti/public_html/cable_operator/employee/index.php on line 63
+[22-Jul-2014 07:45:14] PHP Notice:  Undefined variable: row_client in /home1/projukti/public_html/cable_operator/employee/edit_ajax_area.php on line 13
+[22-Jul-2014 07:46:54] PHP Notice:  Undefined variable: net_bill_amount in /home1/projukti/public_html/cable_operator/employee/pkg_duration_search.php on line 268
+[22-Jul-2014 07:46:54] PHP Warning:  array_sum() [<a href='function.array-sum'>function.array-sum</a>]: The argument should be an array in /home1/projukti/public_html/cable_operator/employee/pkg_duration_search.php on line 268
+[22-Jul-2014 07:57:48] PHP Notice:  date_default_timezone_set() [<a href='function.date-default-timezone-set'>function.date-default-timezone-set</a>]: Timezone ID 'ASIA/KOLKATA' is invalid in /home1/projukti/public_html/cable_operator/employee/index.php on line 63
+[22-Jul-2014 08:01:18] PHP Notice:  date_default_timezone_set() [<a href='function.date-default-timezone-set'>function.date-default-timezone-set</a>]: Timezone ID 'ASIA/KOLKATA' is invalid in /home1/projukti/public_html/cable_operator/employee/index.php on line 63
+[28-Jul-2014 14:08:47] PHP Notice:  date_default_timezone_set() [<a href='function.date-default-timezone-set'>function.date-default-timezone-set</a>]: Timezone ID 'ASIA/KOLKATA' is invalid in /home1/projukti/public_html/cable_operator/employee/index.php on line 63
+[28-Jul-2014 14:10:15] PHP Notice:  Undefined variable: item_image in /home1/projukti/public_html/cable_operator/employee/client_entry.php on line 64
+[28-Jul-2014 14:10:18] PHP Notice:  Undefined index:  page in /home1/projukti/public_html/cable_operator/employee/all_client.php on line 313
+[28-Jul-2014 14:10:30] PHP Notice:  Undefined index:  page in /home1/projukti/public_html/cable_operator/employee/all_client.php on line 313
+[28-Jul-2014 14:11:13] PHP Notice:  Undefined index:  page in /home1/projukti/public_html/cable_operator/employee/package_view.php on line 83
+[28-Jul-2014 14:11:30] PHP Notice:  Undefined index:  page in /home1/projukti/public_html/cable_operator/employee/view_assign_package.php on line 99
+[28-Jul-2014 14:11:41] PHP Notice:  Undefined index:  page in /home1/projukti/public_html/cable_operator/employee/view_assign_package.php on line 99
+[28-Jul-2014 14:11:49] PHP Notice:  Undefined index:  page in /home1/projukti/public_html/cable_operator/employee/view_assign_package.php on line 99
+[28-Jul-2014 14:12:14] PHP Notice:  Undefined index:  page in /home1/projukti/public_html/cable_operator/employee/client_list.php on line 209
+[28-Jul-2014 23:36:40] PHP Notice:  date_default_timezone_set() [<a href='function.date-default-timezone-set'>function.date-default-timezone-set</a>]: Timezone ID 'ASIA/KOLKATA' is invalid in /home1/projukti/public_html/cable_operator/employee/index.php on line 63
+[28-Jul-2014 23:43:47] PHP Notice:  Undefined index:  page in /home1/projukti/public_html/cable_operator/employee/client_list.php on line 209
+[28-Jul-2014 23:44:25] PHP Notice:  Undefined index:  page in /home1/projukti/public_html/cable_operator/employee/client_list.php on line 209
+[28-Jul-2014 23:57:00] PHP Notice:  Undefined index:  page in /home1/projukti/public_html/cable_operator/employee/assign_addons.php on line 87
+[29-Jul-2014 00:01:16] PHP Notice:  Undefined index:  page in /home1/projukti/public_html/cable_operator/employee/assign_addons.php on line 87
+[29-Jul-2014 09:58:03] PHP Notice:  date_default_timezone_set() [<a href='function.date-default-timezone-set'>function.date-default-timezone-set</a>]: Timezone ID 'ASIA/KOLKATA' is invalid in /home1/projukti/public_html/cable_operator/employee/index.php on line 63
+[29-Jul-2014 10:17:18] PHP Notice:  Undefined index:  page in /home1/projukti/public_html/cable_operator/employee/client_list.php on line 209
+[31-Jul-2014 12:34:09] PHP Notice:  date_default_timezone_set() [<a href='function.date-default-timezone-set'>function.date-default-timezone-set</a>]: Timezone ID 'ASIA/KOLKATA' is invalid in /home1/projukti/public_html/cable_operator/employee/index.php on line 63
+[31-Jul-2014 12:35:40] PHP Notice:  Undefined variable: item_image in /home1/projukti/public_html/cable_operator/employee/client_entry.php on line 64
+[31-Jul-2014 12:35:43] PHP Notice:  Undefined index:  page in /home1/projukti/public_html/cable_operator/employee/all_client.php on line 313
+[31-Jul-2014 12:40:05] PHP Notice:  Undefined index:  page in /home1/projukti/public_html/cable_operator/employee/all_client.php on line 313
+[31-Jul-2014 12:40:55] PHP Notice:  date_default_timezone_set() [<a href='function.date-default-timezone-set'>function.date-default-timezone-set</a>]: Timezone ID 'ASIA/KOLKATA' is invalid in /home1/projukti/public_html/cable_operator/employee/index.php on line 63
+[31-Jul-2014 12:42:16] PHP Notice:  Undefined variable: item_image in /home1/projukti/public_html/cable_operator/employee/client_entry.php on line 64
+[31-Jul-2014 12:42:19] PHP Notice:  Undefined index:  page in /home1/projukti/public_html/cable_operator/employee/all_client.php on line 313
+[31-Jul-2014 12:43:57] PHP Notice:  Undefined index:  page in /home1/projukti/public_html/cable_operator/employee/view_assign_package.php on line 99
+[31-Jul-2014 12:47:19] PHP Notice:  Undefined index:  page in /home1/projukti/public_html/cable_operator/employee/view_assign_package.php on line 99
+[31-Jul-2014 12:48:40] PHP Notice:  Undefined index:  page in /home1/projukti/public_html/cable_operator/employee/view_assign_package.php on line 99
+[31-Jul-2014 12:49:03] PHP Notice:  Undefined index:  page in /home1/projukti/public_html/cable_operator/employee/assign_addons.php on line 87
+[31-Jul-2014 12:49:23] PHP Notice:  Undefined index:  page in /home1/projukti/public_html/cable_operator/employee/assign_addons.php on line 87
+[31-Jul-2014 12:49:55] PHP Notice:  Undefined index:  page in /home1/projukti/public_html/cable_operator/employee/view_assign_package.php on line 99
+[31-Jul-2014 12:50:02] PHP Notice:  Undefined index:  page in /home1/projukti/public_html/cable_operator/employee/assign_addons.php on line 87
+[31-Jul-2014 12:50:05] PHP Notice:  Undefined index:  page in /home1/projukti/public_html/cable_operator/employee/view_assign_package.php on line 99
+[31-Jul-2014 12:51:12] PHP Notice:  Undefined index:  page in /home1/projukti/public_html/cable_operator/employee/view_assign_package.php on line 99
+[31-Jul-2014 12:52:19] PHP Notice:  Undefined index:  page in /home1/projukti/public_html/cable_operator/employee/view_assign_package.php on line 99
+[31-Jul-2014 12:52:34] PHP Notice:  Undefined index:  page in /home1/projukti/public_html/cable_operator/employee/view_assign_package.php on line 99
+[31-Jul-2014 12:52:42] PHP Notice:  Undefined index:  page in /home1/projukti/public_html/cable_operator/employee/view_assign_package.php on line 99
+[31-Jul-2014 13:07:27] PHP Notice:  Undefined variable: net_bill_amount in /home1/projukti/public_html/cable_operator/employee/pkg_duration_search.php on line 279
+[31-Jul-2014 13:07:27] PHP Warning:  array_sum() [<a href='function.array-sum'>function.array-sum</a>]: The argument should be an array in /home1/projukti/public_html/cable_operator/employee/pkg_duration_search.php on line 279
+[31-Jul-2014 13:10:10] PHP Notice:  Undefined variable: net_bill_amount in /home1/projukti/public_html/cable_operator/employee/pkg_duration_search.php on line 279
+[31-Jul-2014 13:10:10] PHP Warning:  array_sum() [<a href='function.array-sum'>function.array-sum</a>]: The argument should be an array in /home1/projukti/public_html/cable_operator/employee/pkg_duration_search.php on line 279
+[31-Jul-2014 13:13:48] PHP Notice:  Undefined index:  page in /home1/projukti/public_html/cable_operator/employee/client_list.php on line 209
+[31-Jul-2014 13:20:49] PHP Notice:  Undefined index:  page in /home1/projukti/public_html/cable_operator/employee/client_list.php on line 209
+[01-Aug-2014 04:27:52] PHP Notice:  date_default_timezone_set() [<a href='function.date-default-timezone-set'>function.date-default-timezone-set</a>]: Timezone ID 'ASIA/KOLKATA' is invalid in /home1/projukti/public_html/cable_operator/employee/index.php on line 63
+[01-Aug-2014 04:28:10] PHP Notice:  Undefined index:  page in /home1/projukti/public_html/cable_operator/employee/all_client.php on line 313
+[01-Aug-2014 04:28:25] PHP Notice:  Undefined index:  page in /home1/projukti/public_html/cable_operator/employee/all_client.php on line 313
+[01-Aug-2014 08:52:02] PHP Notice:  date_default_timezone_set() [<a href='function.date-default-timezone-set'>function.date-default-timezone-set</a>]: Timezone ID 'ASIA/KOLKATA' is invalid in /home1/projukti/public_html/cable_operator/employee/index.php on line 63
+[01-Aug-2014 08:56:22] PHP Notice:  Undefined index:  page in /home1/projukti/public_html/cable_operator/employee/package_view.php on line 83
+[01-Aug-2014 09:04:13] PHP Notice:  Undefined index:  page in /home1/projukti/public_html/cable_operator/employee/client_list.php on line 209
+[03-Aug-2014 10:10:48] PHP Notice:  date_default_timezone_set() [<a href='function.date-default-timezone-set'>function.date-default-timezone-set</a>]: Timezone ID 'ASIA/KOLKATA' is invalid in /home1/projukti/public_html/cable_operator/employee/index.php on line 63
+[03-Aug-2014 11:16:26] PHP Notice:  date_default_timezone_set() [<a href='function.date-default-timezone-set'>function.date-default-timezone-set</a>]: Timezone ID 'ASIA/KOLKATA' is invalid in /home1/projukti/public_html/cable_operator/employee/index.php on line 63
+[04-Aug-2014 01:01:30] PHP Notice:  date_default_timezone_set() [<a href='function.date-default-timezone-set'>function.date-default-timezone-set</a>]: Timezone ID 'ASIA/KOLKATA' is invalid in /home1/projukti/public_html/cable_operator/employee/index.php on line 63
+[04-Aug-2014 01:04:00] PHP Notice:  Undefined index:  page in /home1/projukti/public_html/cable_operator/employee/all_client.php on line 313
+[04-Aug-2014 01:04:25] PHP Notice:  Undefined index:  page in /home1/projukti/public_html/cable_operator/employee/all_client.php on line 313
+[04-Aug-2014 01:04:58] PHP Notice:  Undefined index:  page in /home1/projukti/public_html/cable_operator/employee/view_assign_package.php on line 100
+[04-Aug-2014 01:05:15] PHP Notice:  Undefined index:  page in /home1/projukti/public_html/cable_operator/employee/view_assign_package.php on line 100
+[04-Aug-2014 01:05:30] PHP Notice:  Undefined index:  page in /home1/projukti/public_html/cable_operator/employee/view_assign_package.php on line 100
+[04-Aug-2014 01:05:46] PHP Notice:  Undefined index:  page in /home1/projukti/public_html/cable_operator/employee/assign_addons.php on line 87
+[04-Aug-2014 01:05:52] PHP Notice:  Undefined index:  page in /home1/projukti/public_html/cable_operator/employee/addons_view.php on line 83
+[04-Aug-2014 01:06:34] PHP Notice:  Undefined index:  page in /home1/projukti/public_html/cable_operator/employee/view_assign_package.php on line 100
+[04-Aug-2014 01:06:50] PHP Notice:  Undefined index:  page in /home1/projukti/public_html/cable_operator/employee/assign_addons.php on line 87
+[04-Aug-2014 01:12:34] PHP Notice:  Undefined variable: item_image in /home1/projukti/public_html/cable_operator/employee/client_entry.php on line 64
+[04-Aug-2014 01:12:35] PHP Notice:  Undefined index:  page in /home1/projukti/public_html/cable_operator/employee/all_client.php on line 313
+[04-Aug-2014 01:12:50] PHP Notice:  Undefined index:  page in /home1/projukti/public_html/cable_operator/employee/all_client.php on line 313
+[04-Aug-2014 01:13:30] PHP Notice:  Undefined index:  page in /home1/projukti/public_html/cable_operator/employee/view_assign_package.php on line 100
+[04-Aug-2014 01:13:39] PHP Notice:  Undefined index:  page in /home1/projukti/public_html/cable_operator/employee/view_assign_package.php on line 100
+[04-Aug-2014 01:15:36] PHP Notice:  Undefined index:  page in /home1/projukti/public_html/cable_operator/employee/view_assign_package.php on line 100
+[04-Dec-2014 22:43:24] PHP Notice:  date_default_timezone_set() [<a href='function.date-default-timezone-set'>function.date-default-timezone-set</a>]: Timezone ID 'ASIA/KOLKATA' is invalid in /home1/projukti/public_html/cable_operator/employee/index.php on line 63
+[04-Dec-2014 22:43:55] PHP Notice:  date_default_timezone_set() [<a href='function.date-default-timezone-set'>function.date-default-timezone-set</a>]: Timezone ID 'ASIA/KOLKATA' is invalid in /home1/projukti/public_html/cable_operator/employee/index.php on line 63
+[04-Dec-2014 22:44:49] PHP Notice:  Undefined index:  page in /home1/projukti/public_html/cable_operator/employee/all_client.php on line 326
+[04-Dec-2014 22:45:07] PHP Notice:  Undefined index:  page in /home1/projukti/public_html/cable_operator/employee/all_client.php on line 326
+[04-Dec-2014 23:02:05] PHP Notice:  Undefined index:  page in /home1/projukti/public_html/cable_operator/employee/package_view.php on line 84
+[04-Dec-2014 23:02:40] PHP Notice:  Undefined index:  page in /home1/projukti/public_html/cable_operator/employee/package_view.php on line 84
+[04-Dec-2014 23:04:05] PHP Notice:  Undefined index:  page in /home1/projukti/public_html/cable_operator/employee/package_view.php on line 84
+[05-Dec-2014 02:52:19] PHP Notice:  date_default_timezone_set() [<a href='function.date-default-timezone-set'>function.date-default-timezone-set</a>]: Timezone ID 'ASIA/KOLKATA' is invalid in /home1/projukti/public_html/cable_operator/employee/index.php on line 63
+[05-Dec-2014 03:02:44] PHP Notice:  Undefined index:  page in /home1/projukti/public_html/cable_operator/employee/all_client.php on line 326
+[17-Mar-2015 23:08:16] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home1/projukti/public_html/shivamdhaba/cable_operator/employee/connection.php on line 18
